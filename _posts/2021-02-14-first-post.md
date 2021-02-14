@@ -16,6 +16,7 @@ print_hi('Tom')
 
 Check out the [Jekyll docs][jekyll-docs] for more info 
 
+First reference is [here]
+
 [jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[here]: https://dreamgonfly.github.io/blog/jekyll-remote-theme/
