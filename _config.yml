@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SJ MEMO"
+title                    : "Sangjin's MEMO"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sangjin KO"
-description              : "Webpage for memo"
+description              : "Webpage for taking a note"
 remote_theme             : mmistakes/minimal-mistakes
 url                      : "https://SangjinKO.github.io" # the base hostname & protocol for your site 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -95,10 +95,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Sangjin KO"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I am an HCI/UI/UX Researcher"
+  location         : "Seoul, KOREA"
   email            :
   links:
     - label: "Email"
