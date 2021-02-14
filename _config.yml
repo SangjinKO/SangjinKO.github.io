@@ -4,5 +4,7 @@ description: Minimal is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+remote_theme : mmistakes/minimal-mistakes
+
 url: "https://SangjinKO.github.io" # the base hostname & protocol for your site 
 baseurl: "" # the subpath of your site, e.g. "/blog"
