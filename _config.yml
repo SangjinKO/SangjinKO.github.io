@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: [The title of your site]
 description: [A short description of your site's purpose]
-url                      : "https://sangjinko.github.io" # the base hostname & protocol for your site 
+url                      : "https://SangjinKO.github.io" # the base hostname & protocol for your site 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
