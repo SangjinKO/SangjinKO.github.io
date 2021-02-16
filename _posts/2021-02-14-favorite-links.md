@@ -1,7 +1,7 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Favorite Links"
 date: 2021-02-14 08:26:28 -0400
-categories: jekyll update
+categories: Links
 ---
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. 
